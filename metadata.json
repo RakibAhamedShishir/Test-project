@@ -1,0 +1,6 @@
+{
+  "name": "SleetPOS - Offline Retail Point of Sale",
+  "description": "Fast, offline web-based POS system with barcode scanning, live inventory, dual pricing, real-time sales reporting, and local receipt printing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
